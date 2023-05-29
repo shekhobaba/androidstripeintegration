@@ -1,1 +1,1 @@
-# androidstripeintegration
+# Android Stripe Integration
